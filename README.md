@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hba777
-- 👀 I’m interested in ... Coding, Video Games & Digital Art
-- 🌱 I’m currently learning ... C++, Java, App Development,UI/UX in Figma and Unreal Engine 5
-- 💞️ I’m looking to collaborate on ... projects in the game and app development departments
+- 👋 Hi, I’m @hba777.
+- 👀 I’m interested in ... App Development, Video Games, and Digital Art.
+- 🌱 I’m currently learning ... C++, Java, App Development, UI/UX in Figma.
+- 💞️ I’m looking to collaborate on ... projects in the game and app development departments.
 - 📫 How to reach me ... 03345098296
 
 <!---
